@@ -1,0 +1,1 @@
+ssh -p 'port_ssh' 'nom_utilisateur@ip_machine'

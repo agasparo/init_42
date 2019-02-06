@@ -1,0 +1,1 @@
+ifconfig en0 | grep -v inet6 | grep -e inet | cut -d" " -f2

@@ -1,0 +1,1 @@
+en session graphique deco reco et en session ssh il faut faire ssh -p 'le port' 'nomdutilisateur@ipdelamachine'

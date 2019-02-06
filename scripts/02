@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "quel utilisateur voulez-vous supprimer ?"
+read rep
+userdel -r -f "$rep"
